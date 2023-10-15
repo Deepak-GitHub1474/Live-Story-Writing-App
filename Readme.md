@@ -1,0 +1,1 @@
+This project is only focus to see live update.Can modify the code to render new story on webpage on submit.
